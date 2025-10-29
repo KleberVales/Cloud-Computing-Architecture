@@ -9,6 +9,7 @@ Este repositório apresenta uma visão geral sobre **Computação em Nuvem (Clou
 1. [Introdução](#-introdução)
 2. [Modelos de Serviço](#-modelos-de-serviço)
 3. [Modelos de Implantação](#-modelos-de-implantação)
+4. [Arquitetura e Infraestrutura](#-arquitetura-e-infraestrutura)
 
 
 
