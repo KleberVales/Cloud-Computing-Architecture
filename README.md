@@ -23,6 +23,7 @@ A **computação em nuvem** permite acessar recursos de computação — como se
 
 Ela oferece:
 - Escalabilidade
+- Alta disponibilidade
 
 
 
