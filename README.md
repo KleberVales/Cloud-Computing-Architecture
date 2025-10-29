@@ -48,6 +48,9 @@ A computação em nuvem se baseia em três modelos principais:
 
 ## 🌍 Exemplos em Provedores de Nuvem
 
+Este repositório inclui exemplos práticos de configuração em diferentes provedores:
+
+
 
 
 
