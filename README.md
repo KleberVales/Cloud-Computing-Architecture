@@ -52,6 +52,9 @@ Este repositório inclui exemplos práticos de configuração em diferentes prov
 
 - [AWS Example](./examples/aws-example.md)
 - [Azure Example](./examples/azure-example.md)
+- [GCP Example](./examples/gcp-example.md)
+
+---
 
 
 
