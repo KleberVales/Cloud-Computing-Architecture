@@ -61,6 +61,7 @@ Este repositório inclui exemplos práticos de configuração em diferentes prov
 1. Faça um **fork** do projeto
 2. Crie uma **branch** para sua feature (`git checkout -b minha-feature`)
 3. Faça o **commit** das alterações (`git commit -m 'Adiciona nova seção sobre ...'`)
+4. Envie para o repositório remoto (`git push origin minha-feature`)  
 
 
 
