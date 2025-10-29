@@ -27,6 +27,10 @@ Ela oferece:
 - Redução de custos com infraestrutura
 - Facilidade de gerenciamento
 
+![Cloud Diagram](./img/cloud-diagram.png)
+
+---
+
 
 
 
