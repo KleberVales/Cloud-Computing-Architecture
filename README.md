@@ -50,6 +50,9 @@ A computação em nuvem se baseia em três modelos principais:
 
 Este repositório inclui exemplos práticos de configuração em diferentes provedores:
 
+- [AWS Example](./examples/aws-example.md)
+
+
 
 
 
