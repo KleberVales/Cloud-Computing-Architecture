@@ -12,7 +12,10 @@ Este repositório apresenta uma visão geral sobre **Computação em Nuvem (Clou
 4. [Arquitetura e Infraestrutura](#-arquitetura-e-infraestrutura)
 5. [Ferramentas e Tecnologias](#-ferramentas-e-tecnologias)
 6. [Exemplos em Provedores de Nuvem](#-exemplos-em-provedores-de-nuvem)
-7. [Como Contribuir](#-como-contribuir) 
+7. [Como Contribuir](#-como-contribuir)
+8. [Licença](#-licença)
+
+---
 
 
 
