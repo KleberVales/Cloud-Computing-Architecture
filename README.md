@@ -22,6 +22,8 @@ Este repositório apresenta uma visão geral sobre **Computação em Nuvem (Clou
 A **computação em nuvem** permite acessar recursos de computação — como servidores, armazenamento, bancos de dados, redes e software — via internet ("a nuvem") com pagamento sob demanda.
 
 Ela oferece:
+- Escalabilidade
+
 
 
 
