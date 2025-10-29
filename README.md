@@ -58,7 +58,8 @@ Este repositório inclui exemplos práticos de configuração em diferentes prov
 
 ## 🤝 Como Contribuir
 
-1. Faça um **fork** do projeto  
+1. Faça um **fork** do projeto
+2. Crie uma **branch** para sua feature (`git checkout -b minha-feature`)
 
 
 
