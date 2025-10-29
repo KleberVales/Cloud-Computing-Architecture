@@ -25,6 +25,7 @@ Ela oferece:
 - Escalabilidade
 - Alta disponibilidade
 - Redução de custos com infraestrutura
+- Facilidade de gerenciamento
 
 
 
