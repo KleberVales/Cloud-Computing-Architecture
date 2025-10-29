@@ -33,6 +33,9 @@ Ela oferece:
 
 ## 🧩 Modelos de Serviço
 
+A computação em nuvem se baseia em três modelos principais:
+
+
 
 
 
