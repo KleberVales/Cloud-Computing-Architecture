@@ -35,6 +35,17 @@ Ela oferece:
 
 A computação em nuvem se baseia em três modelos principais:
 
+| Categoria | Ferramentas |
+|------------|-------------|
+| Containerização | Docker, Podman |
+| Orquestração | Kubernetes |
+| Infraestrutura como Código | Terraform, Ansible |
+| Observabilidade | Prometheus, Grafana |
+| CI/CD | Jenkins, GitHub Actions |
+| Provedores | AWS, Azure, GCP, Oracle Cloud |
+
+---
+
 
 
 
