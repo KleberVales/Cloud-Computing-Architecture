@@ -66,9 +66,10 @@ Este repositório inclui exemplos práticos de configuração em diferentes prov
 
 ---
 
-Cloud
+## ✉️ Contact
 
-DevOps
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
 
 
