@@ -68,6 +68,8 @@ Este repositório inclui exemplos práticos de configuração em diferentes prov
 
 Cloud
 
+DevOps
+
 
 
 
